@@ -9,7 +9,3 @@ for i in range(1,5):
      print("*",end=" ")
     print()
  
-
-print("pyramid")
-    
-     
